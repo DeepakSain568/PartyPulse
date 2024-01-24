@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094193775249",
+    "project_id": "myapp-73a87",
+    "storage_bucket": "myapp-73a87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094193775249:android:69babd890fd21e1c443530",
+        "android_client_info": {
+          "package_name": "com.easypolitics.partiesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094193775249-qj3q1dnufjfqm9dvilah4rm6aputuovj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZETIzFiAgOI_frucy3NOSGzj_lNopDV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094193775249-qj3q1dnufjfqm9dvilah4rm6aputuovj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

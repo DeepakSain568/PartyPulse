@@ -13,7 +13,6 @@ Future<void> main() async {
 // // 6Lc8rmgoAAAAALxmWiWbHrQoovZyYTIFIzy602-Q
 
 // // Use this secret key for communication between your site and reCAPTCHA.
-// // 6Lc8rmgoAAAAAIkXVhkCLTflBjeBj7VQ32_QW_sN
 // // https://www.google.com/recaptcha/admin/site/677948988
 
 //     webProvider: ReCaptchaV3Provider(' 6Lc8rmgoAAAAAIkXVhkCLTflBjeBj7VQ32_QW_sN'),
